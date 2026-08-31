@@ -4,7 +4,7 @@ This repository contains my daily progress in learning **Java** and **Data Struc
 I am documenting each topic with code examples and practice questions.
 
 ## 📂 Structure
-- `01_Basics/` → Printing, datatypes, variables, arithmetic, input      ✅Completed
+- `01_Basics/` → Printing, datatypes, variables, arithmetic, input      |✅Completed|
 
 - More folders will be added as I progress
 
