@@ -1,3 +1,5 @@
+package _01_Basics;
+
 public class _11_Char_DataType {
     public static void main(String[] args){
         char c = 'A';   //  Characters are limited

@@ -1,3 +1,5 @@
+package _01_Basics;
+
 public class _04_Variables {
     public static void main(String[] args){
 

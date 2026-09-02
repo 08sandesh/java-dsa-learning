@@ -1,5 +1,7 @@
 //  Calculate simple interest
 
+package _01_Basics;
+
 import java.util.Scanner;
 
 public class _08_Question2 {

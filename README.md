@@ -4,8 +4,9 @@ This repository contains my daily progress in learning **Java** and **Data Struc
 I am documenting each topic with code examples and practice questions.
 
 ## 📂 Structure
-- `01_Basics/` → Printing, datatypes, variables, arithmetic, input                            |✅Completed|
-- `01_Basics/` → Modulo operator, division of data types, char data type                      |✅Completed|
+- `_01_Basics/` → Printing, datatypes, variables, arithmetic, input                            |✅Completed|
+- `_01_Basics/` → Modulo operator, division of data types, char data type                      |✅Completed|
+- `_02_If_Else` → Relational operators, boolean data type                                      |✅Completed|
 - More folders will be added as I progress
 
 ## 🛠 Tools

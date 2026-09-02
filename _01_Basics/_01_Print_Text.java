@@ -1,3 +1,5 @@
+package _01_Basics;
+
 public class _01_Print_Text {
     public static void main(String[] args) {
         // print = print the text

@@ -1,5 +1,7 @@
 //  Take 2,3 numbers input and print their sum.
 
+
+package _01_Basics;
 import java.util.Scanner;
 
 public class _07_Question1 {

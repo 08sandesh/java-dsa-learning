@@ -1,3 +1,5 @@
+package _01_Basics;
+
 public class _05_Arithmetic_Operations {
     public static void main(String[] args){
         int x = 12 , y = 10;

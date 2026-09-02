@@ -1,3 +1,5 @@
+package _01_Basics;
+
 public class _09_Modulus_Operator {
     public static void main(String[] args){
         System.out.println(11 % 2 + " is the remainder when " + 11 + " is divided by " + 2);
