@@ -8,6 +8,7 @@ I am documenting each topic with code examples and practice questions.
 - `_01_Basics/` → Modulo operator, division of data types, char data type                      |✅Completed|
 - `_02_If_Else` → Relational operators, boolean data type                                      |✅Completed|
 - `_02_If_Else` → Problems related if else                                                     |✅Completed|
+- `_02_If_Else` → Ternary operator                                                             |✅Completed|
 - More folders will be added as I progress
 
 ## 🛠 Tools
