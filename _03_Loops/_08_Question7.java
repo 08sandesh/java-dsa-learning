@@ -11,8 +11,10 @@ public class _08_Question7 {
         System.out.print("Enter n : ");
         int n = sc.nextInt();
 
-        for (int i = 1 ; i <= Math.pow(2,(n-1)) ; i = i * 2){
-            System.out.print(i + " ");
+        int a = 1 , r = 2;
+        for ( int i = 1 ; i <= n ; i++){
+            System.out.print(a + " ");
+            a = a * r;
         }
 
         sc.close();
