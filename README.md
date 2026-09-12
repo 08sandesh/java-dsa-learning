@@ -11,6 +11,7 @@ I am documenting each topic with code examples and practice questions.
 - `_02_If_Else` → Ternary operator                                                             |✅Completed|
 - `_03_Loops`   → for loop syntax , problem                                                    |✅Completed|
 - `_03_Loops`   → More problems on for loop                                                    |✅Completed|
+- `_03_Loops`   → while loop , do while loop                                                   |✅Completed|
 - More folders will be added as I progress
 
 ## 🛠 Tools
