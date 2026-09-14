@@ -6,12 +6,15 @@ I am documenting each topic with code examples and practice questions.
 ## 📂 Structure
 - `_01_Basics/` → Printing, datatypes, variables, arithmetic, input                            |✅Completed|
 - `_01_Basics/` → Modulo operator, division of data types, char data type                      |✅Completed|
-- `_02_If_Else` → Relational operators, boolean data type                                      |✅Completed|
-- `_02_If_Else` → Problems related if else                                                     |✅Completed|
-- `_02_If_Else` → Ternary operator                                                             |✅Completed|
-- `_03_Loops`   → for loop syntax , problem                                                    |✅Completed|
-- `_03_Loops`   → More problems on for loop                                                    |✅Completed|
-- `_03_Loops`   → while loop , do while loop                                                   |✅Completed|
+- `_02_If_Else/` → Relational operators, boolean data type                                      |✅Completed|
+- `_02_If_Else/` → Problems related if else                                                     |✅Completed|
+- `_02_If_Else/` → Ternary operator                                                             |✅Completed|
+- `_03_Loops/`   → for loop syntax , problem                                                    |✅Completed|
+- `_03_Loops/`   → More problems on for loop                                                    |✅Completed|
+- `_03_Loops/`   → while loop , do while loop                                                   |✅Completed|
+- `_03_Loops/`   → Questions on while loop and do while loop                                    |✅Completed|
+- `_04_Pattern_Printing/`   → Rectangle
+- `_05_Methods/`   → Built in methods
 - More folders will be added as I progress
 
 ## 🛠 Tools

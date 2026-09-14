@@ -13,7 +13,9 @@ public class _16_Question12 {
 
         int count = 0;
 
-        // using for loop
+        if (n == 0) n = 1;
+
+        // Using for loop
         // for ( ; n != 0 ; ){
         //     n = n / 10;
         //     count = count + 1;
