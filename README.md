@@ -14,7 +14,7 @@ I am documenting each topic with code examples and practice questions.
 - `_03_Loops/`   → while loop , do while loop                                                  |✅Completed|
 - `_03_Loops/`   → Questions on while loop and do while loop                                   |✅Completed|
 - `_04_Pattern_Printing/`   → Rectangle
-- `_05_Methods/`   → Built in methods
+- `_05_Methods/`   → Built in methods , method syntax , arguments , parameters , return        |✅Completed|
 - More folders will be added as I progress
 
 ## 🛠 Tools
