@@ -1,4 +1,4 @@
-//  Take 'n' and 'r' as input and print nCr
+//  Take 'n' and 'r' as input and print nCr and nPr
 
 package _05_Methods;
 
@@ -6,27 +6,15 @@ import java.util.Scanner;
 
 public class _07_Question2 {
 
-    public static double Combination(int n , int r){
+    public static int Fact(int c){
         
-        int i = 1 , fact_n = 1;
-        while(i <= n){
-            fact_n = fact_n * i;
+        int i = 1 , fact_c = 1;
+        while(i <= c){
+            fact_c = fact_c * i;
             i++;
         }
 
-        int j = 1 , fact_r = 1;
-        while(j <= r){
-            fact_r = fact_r * j;
-            j++;
-        }
-
-        int k = 1 , fact_nr = 1;
-        while(k <= (n-r)){
-            fact_nr = fact_nr * k;
-            k++;
-        }
-
-        return fact_n / (fact_r * fact_nr);
+        return fact_c;
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -37,7 +25,17 @@ public class _07_Question2 {
         System.out.print("Enter r : ");
         int r = sc.nextInt();
 
-        System.out.println(Combination(n , r));
+        int n_r = n - r;
+
+        if (n >= r && n >= 0 && r >= 0) {
+            int nCr = Fact(n)/(Fact(r) * Fact(n_r));
+            System.out.println("nCr : " + nCr);
+
+            int nPr = Fact(n)/ Fact(n_r);
+            System.out.println("nPr : " + nPr);
+        }
+
+        else System.out.println("Invalid input");
 
         sc.close();
     }
