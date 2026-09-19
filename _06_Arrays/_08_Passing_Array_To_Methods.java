@@ -10,7 +10,8 @@ public class _08_Passing_Array_To_Methods {
         System.out.println(x[2]);
     }
 
-    public static void change(int[] x) {
-        x[2] = 10;
+    public static void change(int[] y) {
+        y[2] = 10;
     }
+    // Whenever we pass an array to method it is passed by reference
 }
