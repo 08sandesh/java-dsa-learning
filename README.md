@@ -1,7 +1,11 @@
-# Java + DSA Learning 🚀
+# ☕ Java + DSA Learning 🚀
 
-This repository contains my daily progress in learning **Java** and **Data Structures & Algorithms (DSA)**.  
-I am documenting each topic with code examples and practice questions.
+Welcome to my **Java + Data Structures & Algorithms** learning repository!
+
+This repository documents my journey of learning Java, building programming fundamentals, and gradually progressing toward **DSA and problem solving**.
+
+I regularly update this repository with **concepts, code examples, practice problems, notes, and solutions**.
+
 
 ## 📂 Structure
 - `_01_Basics/` → Printing, datatypes, variables, arithmetic, input                            |✅Completed|
@@ -13,8 +17,11 @@ I am documenting each topic with code examples and practice questions.
 - `_03_Loops/`   → More problems on for loop                                                   |✅Completed|
 - `_03_Loops/`   → while loop , do while loop                                                  |✅Completed|
 - `_03_Loops/`   → Questions on while loop and do while loop                                   |✅Completed|
-- `_04_Pattern_Printing/`   → Rectangle
-- `_05_Methods/`   → Built in methods , method syntax , arguments , parameters , return        |✅Completed|
+- `_04_Pattern_Printing/`   → Star rectangle, star square, number square, alphabet square      |✅Completed|
+- `_05_Methods/`   → Built in methods, method syntax, arguments, parameters, return,           |✅Completed|
+pass by value, problems
+- `_06_Arrays/` → Basics, input-output, array of other datatypes, pass array by refrence,      |✅Completed|
+shallow copy - deep copy, sort array, for each loop, problems
 - More folders will be added as I progress
 
 ## 🛠 Tools
@@ -26,5 +33,22 @@ I am documenting each topic with code examples and practice questions.
 I am learning Java and DSA with the help of the **GeeksforGeeks DSA in Java playlist by Raghav Sir**.  
 This playlist provides a structured roadmap and practice problems that I follow daily.
 
-## 🌟 Goal
-To build a strong foundation in Java and DSA while maintaining a professional GitHub portfolio.
+## 📈 Daily Progress
+I regularly update this repository as I learn new concepts and solve problems.
+Each update represents another step in my journey toward becoming a better programmer.
+
+Consistency > Motivation
+
+## 🎯 Goal
+My goal is to:
+
+* Build a strong foundation in Java
+* Master Data Structures & Algorithms
+* Improve problem-solving skills
+* Solve DSA problems consistently
+* Build a strong GitHub portfolio
+* Prepare for technical interviews
+
+### 🚀 Follow the Journey
+If you're also learning **Java or DSA**, feel free to explore the repository and learn along with me!
+**Keep coding. Keep learning. Keep improving. ☕💻**
