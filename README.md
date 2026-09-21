@@ -18,10 +18,8 @@ I regularly update this repository with **concepts, code examples, practice prob
 - `_03_Loops/`   → while loop , do while loop                                                  |✅Completed|
 - `_03_Loops/`   → Questions on while loop and do while loop                                   |✅Completed|
 - `_04_Pattern_Printing/`   → Star rectangle, star square, number square, alphabet square      |✅Completed|
-- `_05_Methods/`   → Built in methods, method syntax, arguments, parameters, return,           |✅Completed|
-pass by value, problems
-- `_06_Arrays/` → Basics, input-output, array of other datatypes, pass array by refrence,      |✅Completed|
-shallow copy - deep copy, sort array, for each loop, problems
+- `_05_Methods/`   → Built in methods, method syntax, arguments, parameters, return, pass by value, problems          |✅Completed|
+- `_06_Arrays/` → Basics, input-output, array of other datatypes, pass array by refrence, shallow copy - deep copy, sort array, for each loop, problems     |✅Completed|
 - More folders will be added as I progress
 
 ## 🛠 Tools
