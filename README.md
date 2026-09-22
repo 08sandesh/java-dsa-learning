@@ -8,18 +8,12 @@ I regularly update this repository with **concepts, code examples, practice prob
 
 
 ## 📂 Structure
-- `_01_Basics/` → Printing, datatypes, variables, arithmetic, input                            |✅Completed|
-- `_01_Basics/` → Modulo operator, division of data types, char data type                      |✅Completed|
-- `_02_If_Else/` → Relational operators, boolean data type                                     |✅Completed|
-- `_02_If_Else/` → Problems related if else                                                    |✅Completed|
-- `_02_If_Else/` → Ternary operator                                                            |✅Completed|
-- `_03_Loops/`   → for loop syntax , problem                                                   |✅Completed|
-- `_03_Loops/`   → More problems on for loop                                                   |✅Completed|
-- `_03_Loops/`   → while loop , do while loop                                                  |✅Completed|
-- `_03_Loops/`   → Questions on while loop and do while loop                                   |✅Completed|
-- `_04_Pattern_Printing/`   → Star rectangle, star square, number square, alphabet square      |✅Completed|
-- `_05_Methods/`   → Built in methods, method syntax, arguments, parameters, return, pass by value, problems          |✅Completed|
-- `_06_Arrays/` → Basics, input-output, array of other datatypes, pass array by refrence, shallow copy - deep copy, sort array, for each loop, problems     |✅Completed|
+- `_01_Basics/` → Printing, datatypes, variables, arithmetic, input, Modulo operator, division of data types, char data type ✅
+- `_02_If_Else/` → Relational operators, boolean data type, Problems related if else, Ternary operator ✅
+- `_03_Loops/`   → for loop syntax , problem, More problems on for loop, while loop , do while loop, Questions on while loop and do while loop ✅
+- `_04_Pattern_Printing/`   → Star rectangle, star square, number square, alphabet square ✅
+- `_05_Methods/`  → Built in methods, method syntax, arguments, parameters, return, pass by value, problems ✅
+- `_06_Arrays/` → Basics, input-output, array of other datatypes, pass array by refrence, shallow copy - deep copy, sort array, for each loop, problems ✅
 - More folders will be added as I progress
 
 ## 🛠 Tools
