@@ -8,10 +8,12 @@ public class _17_Question9 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int arr[] = {32,6,4,8,99,12,34};  // 8 99 12 34 32 6 4
+        int arr[] = {32,6,4,8,99,12,34};  // d = 3 :- 8 99 12 34 32 6 4
 
         System.out.print("Enter d : ");
         int d = sc.nextInt();
+
+        d = d % arr.length;
 
         rotate(arr,0,arr.length);
         rotate(arr,0,arr.length-d);
