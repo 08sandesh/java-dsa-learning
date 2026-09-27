@@ -2,7 +2,7 @@
 
 package _06_Arrays;
 
-public class _19_Question11 {
+public class _19_Question11_Method1 {
     public static void main(String[] args) {
         int arr[] = {0,1,1,1,0,0,1,1,0,0};
 
