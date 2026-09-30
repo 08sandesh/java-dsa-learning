@@ -11,7 +11,7 @@ I regularly update this repository with **concepts, code examples, practice prob
 - `_01_Basics/` → Printing, datatypes, variables, arithmetic, input, Modulo operator, division of data types, char data type ✅
 - `_02_If_Else/` → Relational operators, boolean data type, Problems related if else, Ternary operator ✅
 - `_03_Loops/`   → for loop syntax , problem, More problems on for loop, while loop , do while loop, Questions on while loop and do while loop ✅
-- `_04_Pattern_Printing/`   → Star rectangle, star square, number square, alphabet square ✅
+- `_04_Pattern_Printing/`   → Star rectangle, star square, number square, alphabet square, star trinagle ✅
 - `_05_Methods/`  → Built in methods, method syntax, arguments, parameters, return, pass by value, problems ✅
 - `_06_Arrays/` → Basics, input-output, array of other datatypes, pass array by refrence, shallow copy - deep copy, sort array, for each loop, problems, ArrayList ✅
 - More folders will be added as I progress
