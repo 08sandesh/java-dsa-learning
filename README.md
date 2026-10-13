@@ -15,7 +15,7 @@ I regularly update this repository with **concepts, code examples, practice prob
 - `_05_Methods/`  → Built in methods, method syntax, arguments, parameters, return, pass by value, problems ✅
 - `_06_Arrays/` → Basics, input-output, array of other datatypes, pass array by refrence, shallow copy - deep copy, sort array, for each loop, problems, ArrayList ✅
 - Time and Space Complexity ✅
-- `_07_Bubble_Selection_And_Insertion_Sort/` → Bubble sort ✅
+- `_07_Bubble_Selection_And_Insertion_Sort/` → Bubble sort, Selection sort ✅
 - More folders will be added as I progress
 
 ## 🛠 Tools
