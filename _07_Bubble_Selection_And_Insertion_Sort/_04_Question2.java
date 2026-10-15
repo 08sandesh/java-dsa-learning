@@ -2,7 +2,7 @@
 
 package _07_Bubble_Selection_And_Insertion_Sort;
 
-public class _04_Question4 {
+public class _04_Question2 {
 
     public static void print(int[] arr) {
         for (int ele : arr){
