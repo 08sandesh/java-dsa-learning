@@ -8,10 +8,10 @@ import java.util.Arrays;
 public class _07_Question4 {
 
     public static boolean TwoSum(int[] arr, int target){
-        Arrays.sort(arr);
+        Arrays.sort(arr);  // time = nlogn , space = n
 
         int n = arr.length, i = 0, j = n-1;
-        while (i<j){
+        while (i<j){  // time = n
             if (arr[i]+arr[j] > target){
                 j--;
             }
@@ -25,7 +25,7 @@ public class _07_Question4 {
         return false;
     }
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in); // 46
+        Scanner sc = new Scanner(System.in); 
 
         int[] arr = {94,34,2,44,0,-6}; // -6 0 2 34 44 94
 
@@ -36,3 +36,8 @@ public class _07_Question4 {
         sc.close();
     }
 }
+// Time Complexity
+
+//  Sort -> O(nlogn)
+//  loop -> O(n)
+//  O(nlogn) + O(n) = O(nlogn)
