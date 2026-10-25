@@ -33,5 +33,11 @@ public class _02_BuiltInMethods {
 
         //  concat two strings
         System.out.println("Sandesh".concat(" Choudhari"));
+
+        //  convert string to int
+        System.out.println(Integer.parseInt("456"));
+        
+        //  convert int to string
+        System.out.println(Integer.toString(789));
     }
 }
