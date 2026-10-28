@@ -39,5 +39,8 @@ public class _02_BuiltInMethods {
         
         //  convert int to string
         System.out.println(Integer.toString(789));
+
+        //  convert string to char array
+        System.out.println(s.toCharArray());
     }
 }
