@@ -1,4 +1,4 @@
-//  Most frequent character : Method 3 - Hashmap method
+//  Most frequent character : Method 3 - Frequency array
 
 package _08_Strings;
 
