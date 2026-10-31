@@ -29,6 +29,25 @@ public class _01_Representation {
             }
             System.out.println();
         }
+
+        System.out.println();
+
+        // Output using foreach loop
+        for (int[] i : arr1) {
+            for (int j : i) {
+                System.out.print(j + " ");
+            }
+            System.out.println();
+        }
+
+        System.out.println();
+
+        for (int i = 0; i < arr1.length; i++) {
+            for (int ele : arr1[i]) {
+                System.out.print(ele + " ");
+            }
+            System.out.println();
+        }
         sc.close();
     }
 }
